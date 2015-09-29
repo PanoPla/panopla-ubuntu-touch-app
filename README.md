@@ -8,7 +8,7 @@ PanoPla is a CMS for creating and sharing virtual reality and virtual tour conte
 
 ## Usage
 
-This application is published on the Ubuntu Touch software centre. You can also find it on the unofficial app viewer: https://uappexplorer.com/
+This application is published on the Ubuntu Touch software centre. You can also find it on the unofficial app viewer: https://uappexplorer.com/app/panopla.cmdann
 
 ## Editing
 
