@@ -1,0 +1,4 @@
+#! /bin/sh
+echo "Click packages may not be installed directly using dpkg."
+echo "Use 'click install' instead."
+exit 1

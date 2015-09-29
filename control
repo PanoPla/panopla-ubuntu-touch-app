@@ -1,0 +1,7 @@
+Package: panopla.cmdann
+Version: 1.0
+Click-Version: 0.4
+Architecture: all
+Maintainer: Dann Blair <CMDann@gmail.com>
+Installed-Size: 20
+Description: PanoPla
