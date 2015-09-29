@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=PanoPla
+Comment=Webapp for panopla.com
+Type=Application
+Icon=icon128.png
+Exec=webapp-container --store-session-cookies --enable-back-forward --fullscreen --webappUrlPatterns=https?://panopla.com/* http://panopla.com/
+Terminal=false
+X-Ubuntu-Touch=true
+
+Name[en_US]=panopla.desktop

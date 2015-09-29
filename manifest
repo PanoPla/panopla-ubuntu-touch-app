@@ -1,0 +1,16 @@
+{
+    "architecture": "all",
+    "description": "Webapp for panopla.com",
+    "framework": "ubuntu-sdk-14.10",
+    "hooks": {
+        "panopla": {
+            "apparmor": "panopla.apparmor",
+            "desktop": "panopla.desktop"
+        }
+    },
+    "installed-size": "20",
+    "maintainer": "Dann Blair <CMDann@gmail.com>",
+    "name": "panopla.cmdann",
+    "title": "PanoPla",
+    "version": "1.0"
+}
