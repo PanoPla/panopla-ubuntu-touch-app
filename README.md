@@ -4,6 +4,8 @@
 
 PanoPla is a CMS for creating and sharing virtual reality and virtual tour content. This plugin is an application for Ubuntu Touch, Canonical's new mobile operating system. 
 
+<img src="assets/img/Screenshot_2015-09-28-22-55-48_nexus4_angle1" alt="mock" />
+
 ## Usage
 
 This application is published on the Ubuntu Touch software centre. You can also find it on the unofficial app viewer: https://uappexplorer.com/
